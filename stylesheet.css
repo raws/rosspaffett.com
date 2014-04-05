@@ -23,10 +23,13 @@ a:hover {
 
 #introduction {
   color: #babfbb;
+  font-weight: 700;
 }
 
 #introduction a {
   color: #babfbb;
+  border-color: #5a5c5a;
+  border-width: 2px;
 }
 
 @media screen and (max-device-width: 480px) {
