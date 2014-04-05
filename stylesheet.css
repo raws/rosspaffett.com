@@ -34,8 +34,9 @@ a:hover {
 
 @media screen and (max-device-width: 480px) {
   body {
-    font-size: 36px;
-    line-height: 48px;
+    font-size: 48px;
+    line-height: 56px;
+    margin: 50px auto;
     -webkit-text-size-adjust: none;
     width: 690px;
   }
