@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/raws
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rosspaffett.com
+  * I am raws (https://keybase.io/raws) on keybase.
+  * I have a public key with fingerprint 4ABE CA14 6DA0 809F 2A80  EAB9 1E0A 2E61 486B DB1F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4abeca146da0809f2a80eab91e0a2e61486bdb1f",
+            "host": "keybase.io",
+            "key_id": "1e0a2e61486bdb1f",
+            "uid": "7dcf90c7f1d5e93bd45e55bbb7d7cc00",
+            "username": "raws"
+        },
+        "service": {
+            "hostname": "rosspaffett.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412038399,
+    "expire_in": 157680000,
+    "prev": "4471fa4dbcbb36ef1be8793d474528d423f7b5faa98a52a41ed05903e7f96cbc",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yMHnAnicbVFbSBRRGN5VS91cyCy6PFiMEEQiMzszOzMripUYBQXBUgjRds6cM+uQ
+zqwzs6uuLRlFD24X7SJhKptWGHlBsARDWOzyIimiFGlUdlEEH/TBLixmM5JvnZfD
++W7//5//pTPZ5rCvgPbXbfH+IftIfDFo8+77s1pLQBXVEJ5a4hxeuyRZ8WMtoMmK
+QXgIBkAsAopxI0DypCC5AE9iAAUKk8CF3RTDuyGClETkEmWqbjnMGAh0nCerJmY+
+fDIy0f/og2sEh0RJIEVOohCLBRoihsUsCyHkECeKJGkJdawpoAKbag1U6UQklzCR
+kCxiq1+r7Dqr6noASBI2jDxRrTCtAU01VFEtN8kywwh4LK9RE7DEVRj6/sX4oKwg
+c2zTEMKaLqsK4aFMpWjIVi7FUC6S5mlByCVwdUDWsE+2FCzn5knzWGVwyPoshqMk
+wCAoQki7sURBzHMCjRiOYV08Yly0xEFWAkDgAesCDIURyQokjTlJcItQJKzBKhWV
+8NBmm8BvRuqyXwFGUMNEZDh+OsVmd9g2bkiyFmdzpG9eX2dDNHU1Mn0vVupdUjJ7
+ok3Lm3JA2qGk0d362d6j23d1x1vf+vXJFJ/nXXxU9x7b27olLYtauL+Ynl8+4zQe
+lW7bjyr1RFb0S1vRjUT3ww7ug+/SqYmChfKBuYzwjlFPYXB2YM9dR+J4z5Vvl+fv
+jLcpvSVGc+3EdX5pyt4fHqvq9NY+ePYiPDXI9Y0dmHny5n1d9ffPkfOJ2NOhvK8x
+e8vA7/blm8mVxShWj/JT536+Spn7NJy+dbLeWdx17fARV9HMwR9nbrVGwreb/fpC
+f2PayKDD+auwbqXro9IRe9zVeSJjOtQiivzJzr6dz6XsnAtlV4ubGx3jBZkN0dmm
+kovZ838BLQAfTQ==
+=0GvD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raws
+
+==================================================================
