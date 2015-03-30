@@ -32,6 +32,14 @@ a:hover {
   border-width: 2px;
 }
 
+#portrait {
+  border-radius: 50%;
+  display: block;
+  height: 128px;
+  margin: 0 auto 30px auto;
+  width: 128px;
+}
+
 @media screen and (max-device-width: 480px) {
   body {
     font-size: 48px;
@@ -42,5 +50,11 @@ a:hover {
 
   section {
     margin-bottom: 80px;
+  }
+
+  #portrait {
+    height: 256px;
+    margin-bottom: 80px;
+    width: 256px;
   }
 }
