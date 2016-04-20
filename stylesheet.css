@@ -1,7 +1,7 @@
 body {
   background-color: #2b2e2c;
-  color: #7c807d;
-  font-family: "proxima-nova-1", "proxima-nova-2", sans-serif;
+  color: #949995;
+  font-family: 'proxima-nova-1', 'proxima-nova-2', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -12,27 +12,27 @@ body {
 
 a {
   border-bottom: 1px solid #525452;
-  color: #7c807d;
+  color: #949995;
   text-decoration: none;
 }
 
 a:hover {
   color: #babfbb;
-  border-color: #7c807d;
+  border-color: #949995;
 }
 
-#introduction {
+p.emphasized {
   color: #babfbb;
   font-weight: 600;
 }
 
-#introduction a {
+p.emphasized a {
   color: #babfbb;
   border-color: #5a5c5a;
   border-width: 2px;
 }
 
-#portrait {
+img#portrait {
   border-radius: 50%;
   display: block;
   height: 128px;
