@@ -1,6 +1,6 @@
 body {
-  background-color: #2b2e2c;
-  color: #949995;
+  background-color: #111;
+  color: #949599;
   font-family: 'proxima-nova-1', 'proxima-nova-2', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -11,14 +11,14 @@ body {
 }
 
 a {
-  border-bottom: 1px solid #525452;
-  color: #949995;
+  border-bottom: 1px solid #525254;
+  color: #949599;
   text-decoration: none;
 }
 
 a:hover {
   color: #babfbb;
-  border-color: #949995;
+  border-color: #949599;
 }
 
 p.emphasized {
@@ -28,16 +28,16 @@ p.emphasized {
 
 p.emphasized a {
   color: #babfbb;
-  border-color: #5a5c5a;
+  border-color: #5a5a5c;
   border-width: 2px;
 }
 
 img#portrait {
   border-radius: 50%;
   display: block;
-  height: 128px;
+  height: 256px;
   margin: 0 auto 30px auto;
-  width: 128px;
+  width: 256px;
 }
 
 @media screen and (max-device-width: 480px) {
